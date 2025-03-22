@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SeleniumTestNGPOMSuite">
+    <test name="LoginTest">
+        <classes>
+            <class name="com.example.tests.LoginTest"/>
+        </classes>
+    </test>
+    <test name="RegistrationTest">
+        <classes>
+            <class name="com.example.tests.RegistrationTest"/>
+        </classes>
+    </test>
+    <test name="SignUpTest">
+        <classes>
+            <class name="com.example.tests.SignUpTest"/>
+        </classes>
+    </test>
+</suite>
